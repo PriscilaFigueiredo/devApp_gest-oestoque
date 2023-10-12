@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Gestao 0 1697120832198</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1129243_gestao_0_1697120832198</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 14:27:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e4a559a97b171105bd0ffb0f053af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestao 0 1697120832198</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_update_name>sys_app_module_0e4a559a97b171105bd0ffb0f053af74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 14:27:11</sys_updated_on>
+        <timeline_page/>
+        <title>Gestao 0 1697120832198</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sys_app_module_0e4a559a97b171105bd0ffb0f053af74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Gestao 0 1697120832198</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1129243_gestao_0_1697120832198</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-12 14:27:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0e4a559a97b171105bd0ffb0f053af74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Gestao 0 1697120832198</sys_name><sys_overrides/><sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package><sys_policy/><sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope><sys_update_name>sys_app_module_0e4a559a97b171105bd0ffb0f053af74</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-12 14:27:11</sys_updated_on><timeline_page/><title>Gestao 0 1697120832198</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1199345141</payload_hash>
+        <record_name>Gestao 0 1697120832198</record_name>
+        <reverted_from/>
+        <source>5706595697b171105bd0ffb0f053affd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 14:27:12</sys_created_on>
+        <sys_id>ce4a559a97b171105bd0ffb0f053af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b2448ca150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 14:27:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>064a559a31b17110a2b9fd2f69526377</update_guid>
+        <update_guid_history>064a559a31b17110a2b9fd2f69526377:1199345141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Gestao 0 1697120832198">9cbbddda97b171105bd0ffb0f053af33</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 14:33:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>77b6781e527b4245a1c614a0f018ba79</sys_id>
+        <sys_metadata>0e4a559a97b171105bd0ffb0f053af74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestao 0 1697120832198</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_scope_delete display_value="">128ef19bd48e40b691d2970cb2a1a6c9</sys_scope_delete>
+        <sys_update_name>sys_app_module_0e4a559a97b171105bd0ffb0f053af74</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0e4a559a97b171105bd0ffb0f053af74">ce4a559a97b171105bd0ffb0f053af77</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 14:33:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

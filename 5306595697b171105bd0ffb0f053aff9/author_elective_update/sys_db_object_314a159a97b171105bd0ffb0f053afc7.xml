@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Gestao 0 1697120832198</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1129243_gestao_0_1697120832198</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">0a0f50f2d423211095d7c105f1bf4341</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 14:27:10</sys_created_on>
+        <sys_id>314a159a97b171105bd0ffb0f053afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestao 0 1697120832198</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_update_name>sys_db_object_314a159a97b171105bd0ffb0f053afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 14:27:10</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sys_db_object_314a159a97b171105bd0ffb0f053afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Gestao 0 1697120832198</label><live_feed_enabled>false</live_feed_enabled><name>x_1129243_gestao_0_1697120832198</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">0a0f50f2d423211095d7c105f1bf4341</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-12 14:27:10</sys_created_on><sys_id>314a159a97b171105bd0ffb0f053afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Gestao 0 1697120832198</sys_name><sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package><sys_policy/><sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope><sys_update_name>sys_db_object_314a159a97b171105bd0ffb0f053afc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-12 14:27:10</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1470637829</payload_hash>
+        <record_name>Gestao 0 1697120832198</record_name>
+        <reverted_from/>
+        <source>5706595697b171105bd0ffb0f053affd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 14:27:11</sys_created_on>
+        <sys_id>0e4a559a97b171105bd0ffb0f053af57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b2448c8230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 14:27:11</sys_updated_on>
+        <type>Table</type>
+        <update_guid>824a559a39b17110942a35c6cbb9af57</update_guid>
+        <update_guid_history>824a559a39b17110942a35c6cbb9af57:1470637829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 14:33:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>acdd6848c86547089c3c31d29e81a309</sys_id>
+        <sys_metadata>314a159a97b171105bd0ffb0f053afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestao 0 1697120832198</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_scope_delete display_value="">128ef19bd48e40b691d2970cb2a1a6c9</sys_scope_delete>
+        <sys_update_name>sys_db_object_314a159a97b171105bd0ffb0f053afc7</sys_update_name>
+        <sys_update_version display_value="sys_db_object_314a159a97b171105bd0ffb0f053afc7">0e4a559a97b171105bd0ffb0f053af57</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 14:33:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
