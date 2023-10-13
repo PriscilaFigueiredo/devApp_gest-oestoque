@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b19d199e97b171105bd0ffb0f053afaf" extends="task" label="Compras" max_length="40" name="x_1129243_gestao_0_compras" type="collection">
         <element default="0" label="Entrega" max_length="40" name="entrega" type="boolean"/>
-        <element label="Item" max_length="32" name="item" reference="x_1129243_gestao_0_produtos" type="reference"/>
+        <element label="Produto" max_length="32" name="item" reference="x_1129243_gestao_0_produtos" type="reference"/>
     </element>
 </database>
