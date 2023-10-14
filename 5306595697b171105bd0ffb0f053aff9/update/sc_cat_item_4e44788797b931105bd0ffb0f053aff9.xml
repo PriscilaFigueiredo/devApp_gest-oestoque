@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Materiais papelaria">946474c797b931105bd0ffb0f053af46</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Você encontrará uma ampla variedade de opções para se adequar ao seu estilo pessoal e necessidades específicas. <br /><strong><br />Tipo de papel:</strong> pautado de 80 g/m²<br /><strong>Número de Páginas:</strong> 100/120 /200/220<br /><strong>Gramatura:</strong> 70 g/m², 90 g/m², 120 g/m²<br /><strong>Tipo capa: </strong>dura /mole</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta>papelaria, cadernos</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Cadernos </name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>4d69f8c797b931105bd0ffb0f053af1e</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=4e44788797b931105bd0ffb0f053aff9&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>Oferecemos cadernos pautados, quadriculados, de capa dura, espirais e muito mais.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:58:13</sys_created_on>
+        <sys_id>4e44788797b931105bd0ffb0f053aff9</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Cadernos </sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_update_name>sc_cat_item_4e44788797b931105bd0ffb0f053aff9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 22:04:24</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>7</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e44788797b931105bd0ffb0f053aff9"/>
+    <fx_price action="delete_multiple" query="id=4e44788797b931105bd0ffb0f053aff9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>price</field>
+        <id>4e44788797b931105bd0ffb0f053aff9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:58:13</sys_created_on>
+        <sys_id>3639b84f97b931105bd0ffb0f053af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 19:58:13</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>4e44788797b931105bd0ffb0f053aff9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:58:13</sys_created_on>
+        <sys_id>be39b84f97b931105bd0ffb0f053af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 19:58:13</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#e9e1df</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <hash>90d7fb19aa2c29b36af0f75432c5840420b475c47a5da2b25c1de0b07ef86cc5</hash>
+        <image_height>192</image_height>
+        <image_width>263</image_width>
+        <size_bytes>5454</size_bytes>
+        <size_compressed>5133</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:58:55</sys_created_on>
+        <sys_id>4d69f8c797b931105bd0ffb0f053af1e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 19:58:56</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>4e44788797b931105bd0ffb0f053aff9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="4d69f8c797b931105bd0ffb0f053af1e">4d69f8c797b931105bd0ffb0f053af1e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:58:55</sys_created_on>
+        <sys_id>8d69f8c797b931105bd0ffb0f053af1e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6832</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="4d69f8c797b931105bd0ffb0f053af1e">4d69f8c797b931105bd0ffb0f053af1e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:58:55</sys_created_on>
+        <sys_id>0169f8c797b931105bd0ffb0f053af1f</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:02:13</sys_created_on>
+        <sys_id>512c6c8f977931105bd0ffb0f053afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestão estoque</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_update_name>sc_category_512c6c8f977931105bd0ffb0f053afbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 19:02:13</sys_updated_on>
+        <title>Gestão estoque</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=512c6c8f977931105bd0ffb0f053afbc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sc_category_512c6c8f977931105bd0ffb0f053afbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-14 19:02:13</sys_created_on><sys_id>512c6c8f977931105bd0ffb0f053afbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Gestão estoque</sys_name><sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package><sys_policy/><sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope><sys_update_name>sc_category_512c6c8f977931105bd0ffb0f053afbc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-14 19:02:13</sys_updated_on><title>Gestão estoque</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=512c6c8f977931105bd0ffb0f053afbc"/></record_update>]]></payload>
+        <payload_hash>332233711</payload_hash>
+        <record_name>Gestão estoque</record_name>
+        <reverted_from/>
+        <source>b10db25e977971105bd0ffb0f053afb2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:02:14</sys_created_on>
+        <sys_id>aa6ce08f977931105bd0ffb0f053afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b2f914fc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 19:02:14</sys_updated_on>
+        <type>Category</type>
+        <update_guid>ee6ce08f4979311028266abdeff3abb1</update_guid>
+        <update_guid_history>ee6ce08f4979311028266abdeff3abb1:332233711</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Gestão estoque">918370c797b931105bd0ffb0f053af32</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 19:33:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>057d15ba59cf4dc780771d96d5987f51</sys_id>
+        <sys_metadata>512c6c8f977931105bd0ffb0f053afbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestão estoque</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_scope_delete display_value="">128ef19bd48e40b691d2970cb2a1a6c9</sys_scope_delete>
+        <sys_update_name>sc_category_512c6c8f977931105bd0ffb0f053afbc</sys_update_name>
+        <sys_update_version display_value="sc_category_512c6c8f977931105bd0ffb0f053afbc">aa6ce08f977931105bd0ffb0f053afb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 19:33:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

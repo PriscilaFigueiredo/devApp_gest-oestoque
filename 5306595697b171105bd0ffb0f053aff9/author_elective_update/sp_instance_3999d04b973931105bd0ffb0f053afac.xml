@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e2c85766977131105bd0ffb0f053afce</sp_column>
+        <sp_widget display_value="knowledge Tags Facet">c315f09adb00320099f93691f0b8f538</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 17:39:59</sys_created_on>
+        <sys_id>3999d04b973931105bd0ffb0f053afac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_update_name>sp_instance_3999d04b973931105bd0ffb0f053afac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 17:39:59</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3999d04b973931105bd0ffb0f053afac"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sp_instance_3999d04b973931105bd0ffb0f053afac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">e2c85766977131105bd0ffb0f053afce</sp_column><sp_widget display_value="knowledge Tags Facet">c315f09adb00320099f93691f0b8f538</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-14 17:39:59</sys_created_on><sys_id>3999d04b973931105bd0ffb0f053afac</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package><sys_policy/><sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope><sys_update_name>sp_instance_3999d04b973931105bd0ffb0f053afac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-14 17:39:59</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=3999d04b973931105bd0ffb0f053afac"/></record_update>]]></payload>
+        <payload_hash>-314518235</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b10db25e977971105bd0ffb0f053afb2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 17:39:59</sys_created_on>
+        <sys_id>7599d04b973931105bd0ffb0f053afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b2f4603e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 17:39:59</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b999d04ba6393110d8cf46f7a47e14ae</update_guid>
+        <update_guid_history>b999d04ba6393110d8cf46f7a47e14ae:-314518235</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6cb9184b973931105bd0ffb0f053afdf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 17:40:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>5747d8782e0a4f7c99ffde5c3334be09</sys_id>
+        <sys_metadata>3999d04b973931105bd0ffb0f053afac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestao de Estoque" source="x_1129243_gestao_0">5306595697b171105bd0ffb0f053aff9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">5306595697b171105bd0ffb0f053aff9</sys_scope>
+        <sys_scope_delete display_value="">128ef19bd48e40b691d2970cb2a1a6c9</sys_scope_delete>
+        <sys_update_name>sp_instance_3999d04b973931105bd0ffb0f053afac</sys_update_name>
+        <sys_update_version display_value="sp_instance_3999d04b973931105bd0ffb0f053afac">7599d04b973931105bd0ffb0f053afaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 17:40:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
